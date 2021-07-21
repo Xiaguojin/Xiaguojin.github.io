@@ -1,14 +1,14 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://xiaguojin.github.io
 url: https://xiaguojin.github.io
 date_format: "ordinal"
 title: 夏国晋(ADITL)
 timezone: Chain/ChongQing
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: Xiaguojin/xiaguojin.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -49,7 +49,7 @@ highlight_theme: github
 author: Xia Guo Jin
 organization: 
 organization_url: 
-location: Wuhan, China
+location: Chongqing, China
 email: aditl_xgj@163.com
 
 # ---------------- #
