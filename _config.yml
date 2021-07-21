@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://xiaguojin.github.io
 url: https://xiaguojin.github.io
 date_format: "ordinal"
 title: 夏国晋(ADITL)
@@ -48,7 +48,7 @@ highlight_theme: github
 author: Xia Guo Jin
 organization: 
 organization_url: 
-location: Wuhan, China
+location: Chongqing, China
 email: aditl_xgj@163.com
 
 # ---------------- #
