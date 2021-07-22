@@ -62,15 +62,15 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: Android
     
   -
     href: /wiki/
-    label: Android
+    label: 鸿蒙
 
   -
     href: /links/
-    label: 鸿蒙
+    label: 链接
 
   -
     href: /about/

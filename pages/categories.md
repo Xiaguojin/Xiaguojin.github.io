@@ -1,10 +1,10 @@
 ---
 layout: categories
 title: Categories
-description: 哈哈，你找到了我的文章基因库
-keywords: 分类
+description: Android成长史
+keywords: Android
 comments: false
-menu: 分类
+menu: Android
 permalink: /categories/
 ---
 
