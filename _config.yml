@@ -64,14 +64,14 @@ navs:
     href: /categories/
     label: 分类
 
-   -
-     href: /Android/
-     label: Android
+  -
+    href: /Android/
+    label: Android
 
-   -
-     href: /deveco/
-     label: 鸿蒙
-
+  -
+    href: /deveco/
+    label: 鸿蒙
+    
   -
     href: /wiki/
     label: 维基
